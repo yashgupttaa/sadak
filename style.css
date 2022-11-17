@@ -1,0 +1,83 @@
+.warning{
+    border: 5px solid red;
+    border-radius: 5px;
+    color: black;
+    background: white;
+    padding: 1rem 1rem;
+}
+.contact1{
+    background-color: lightyellow;
+    color: black;
+    font-weight: bold;
+    border: double 3px blue;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+.contact2{
+    background-image: linear-gradient(yellow, #ffffff);
+    font-weight: bold;
+    border-width: 1px;
+    border-color: red;
+    border-style: outset;
+    padding: 6px;
+    border-radius: 8px;
+    text-align: center;
+}
+.top{
+    background: #ff4701;
+    color: #fff;
+    border-width: 5px;
+    border-radius: 6px;
+    border-color: #fff;
+    border-style: double;
+   
+    margin: 10px;
+    padding: 1%;
+    font-family: arial;
+    font-size: large;
+    text-align: center;
+}
+marquee{
+    font-weight: 700;
+}
+#time{
+    color: yellow;
+}
+.card{
+    background: linear-gradient( to bottom, #1000ff, #a8e6aa);
+    border: outset #0043ff 3px;
+    padding: 10px 30px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* height: 5rem; */
+}
+.contact3{
+    background-color: lightyellow;
+    color: black;
+    font-weight: bold;
+    border: double 3px blue;
+    padding: 5px;
+    border-radius: 20px;
+    
+}
+.menu{
+    width: 50%;
+    height: 6rem;
+    text-align: center;
+    /* background-color: #003300; */
+    background: linear-gradient( to bottom, #1000ff, #a8e6aa);
+    border: outset #0043ff 3px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.menu a{
+    text-decoration: none;
+}
+.cards{
+    gap: 5px;
+    display: flex;
+    padding: 4px;
+    color: white;
+    
+}
